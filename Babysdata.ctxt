@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Babysdata
+comment1.params=year\ name\ gender
+comment1.target=int\ Rank(int,\ java.lang.String,\ java.lang.String)
+comment2.params=year\ ranke\ gender
+comment2.target=java.lang.String\ getName(int,\ int,\ java.lang.String)
+comment3.params=name\ year\ newyear\ gender
+comment3.target=void\ whatIsNameInYear(java.lang.String,\ int,\ int,\ java.lang.String)
+comment4.params=name\ gender
+comment4.target=double\ getAverageRank(java.lang.String,\ java.lang.String)
+comment5.params=year\ name\ gender
+comment5.target=int\ getTotalBirthsRankedHigher(int,\ java.lang.String,\ java.lang.String)
+comment6.params=year\ gender
+comment6.target=void\ totalgender(int,\ java.lang.String)
+comment7.params=name\ gender
+comment7.target=void\ highestRank(java.lang.String,\ java.lang.String)
+comment8.params=cur\ newe
+comment8.target=int\ maxof(int,\ int)
+comment9.params=
+comment9.target=void\ test()
+numComments=10

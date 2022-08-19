@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Name
+comment1.params=year
+comment1.target=void\ readfile(int)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=fr
+comment3.target=void\ totalbirth(edu.duke.FileResource)
+comment4.params=
+comment4.target=void\ test()
+numComments=5
